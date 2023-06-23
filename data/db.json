@@ -2,9 +2,33 @@
   "posts": [
     {
       "id": 1,
-      "title": "My First Posts",
-      "datetime": "June 23, 2023 7:58:19 PM",
-      "body": "5 tools which are better than chatGPT, you wish there were lol"
+      "title": "Eco-Friendly Home Hacks",
+      "datetime": "June 23, 2023 10:19:40 PM",
+      "body": "Discover simple and effective ways to make your home more environmentally friendly. From energy-saving tips to sustainable cleaning practices, this blog provides practical advice for reducing your carbon footprint and creating a greener living space."
+    },
+    {
+      "id": 2,
+      "title": "Travel Destinations for Adventure Junkies",
+      "datetime": "June 23, 2023 10:19:54 PM",
+      "body": "Are you a thrill-seeker looking for your next adrenaline rush? This blog highlights exciting travel destinations around the world that cater to adventure enthusiasts. From bungee jumping in New Zealand to hiking the Inca Trail in Peru, get ready to feed your adventurous spirit."
+    },
+    {
+      "id": 3,
+      "title": "Mastering Mindfulness in a Hectic World",
+      "datetime": "June 23, 2023 10:20:10 PM",
+      "body": "In our fast-paced lives, finding moments of calm and cultivating mindfulness is essential. This blog explores different techniques and strategies to incorporate mindfulness into your daily routine, helping you reduce stress, improve focus, and find inner peace amid the chaos."
+    },
+    {
+      "id": 4,
+      "title": "Unveiling the Wonders of Space",
+      "datetime": "June 23, 2023 10:20:25 PM",
+      "body": "Embark on a journey through the cosmos as we delve into the fascinating world of space exploration and astronomy. From the latest discoveries about distant galaxies to the wonders of our own solar system, this blog unravels the mysteries of the universe and expands our cosmic horizons."
+    },
+    {
+      "id": 5,
+      "title": "Unlocking the Secrets of Healthy Aging",
+      "datetime": "June 23, 2023 10:20:37 PM",
+      "body": "Aging is a natural part of life, but how can we ensure we age gracefully and maintain good health in our later years? This blog provides insights into healthy aging, covering topics such as nutrition, exercise, mental well-being, and the latest research on longevity, helping you live your best life as you grow older."
     }
   ]
 }
