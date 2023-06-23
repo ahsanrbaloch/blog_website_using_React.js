@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Introduction
+# Introduction
 
 This is a very simple react application that is mainly focused on the practicing the basic CRUD operations. It lets you post, edit, and delete a blog post and uses Axios Api Requests to get, post, put, or delete the data. 
 
