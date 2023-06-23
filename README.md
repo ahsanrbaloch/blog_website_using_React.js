@@ -21,3 +21,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Now you need to replace all the files in you react app with all the files in the repository.
 
 # Screenshots of the Application
+# Home Page
+![image](https://github.com/ahsanrbaloch/react_blog/assets/72220980/213607b3-f18e-4d3b-9e14-3eb2902c3e4e)
+
+# View Full Post by Clicking on the Post
+![image](https://github.com/ahsanrbaloch/react_blog/assets/72220980/62d6ad32-c174-471b-a4ab-2323c08c4039)
+
+# Edit Post
+![image](https://github.com/ahsanrbaloch/react_blog/assets/72220980/528e40e0-b17c-4625-a10c-e5b9df318263)
+
+# Create New Post
+![image](https://github.com/ahsanrbaloch/react_blog/assets/72220980/382093d2-a23e-4f1e-bf43-bde4c8fae417)
+
+# Delete Post
+You can delete the post by simply clicking on the delete button when showing the full blog details.
